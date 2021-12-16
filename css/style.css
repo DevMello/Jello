@@ -15,7 +15,7 @@ body {
 .main {
   width: 100vw;
   height: 100vh;
-  background-image: ../img/bg.jpg;
+  background-image: "../img/bg.jpg";
   background-size: cover;
   overflow: hidden;
 }
